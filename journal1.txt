@@ -1,0 +1,16 @@
+-----Ouverture d'une nouvelle session au Fri May 27 19:41:46 2022-----
+Client : 127.0.0.1 est connecte
+Client : 127.0.0.1 demande le fichier test
+	Fichier: test non trouve
+Client : 127.0.0.1 est connecte
+Client : 127.0.0.1 demande le fichier file
+	Fichier: file non trouve
+Client : 127.0.0.1 est connecte
+Client : 127.0.0.1 demande le fichier file.txt
+	Fichier: file.txt trouve
+	Fichier: file.txt envoye au Client: 127.0.0.1
+Client : 127.0.0.1 est connecte
+Client : 127.0.0.1 quitte
+---------Fermeture de session au Fri May 27 19:41:46 2022 --------
+====================
+-----Ouverture d'une nouvelle session au Fri May 27 20:10:56 2022-----
